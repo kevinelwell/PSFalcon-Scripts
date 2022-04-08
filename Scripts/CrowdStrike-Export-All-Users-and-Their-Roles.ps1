@@ -21,7 +21,7 @@
 .NOTES
   Version:        1.7
   Script Name:    Get All Users and Their Roles.ps1
-  Author:         Kevin Elwell - Booz Allen Hamilton
+  Author:         Kevin Elwell
   Creation Date:  4/5/2022
   Purpose/Change: Initial script development
   Credits: Luca Sturlese for the logging functions - https://github.com/9to5IT/PSLogging
