@@ -21,7 +21,7 @@
 .NOTES
   Version:        1.2
   Script Name:    CrowdStrike-Export-USB-Device-Policies.ps1
-  Author:         Kevin Elwell - Booz Allen Hamilton
+  Author:         Kevin Elwell
   Creation Date:  4/6/2022
   Purpose/Change: Initial script development
   Credits: Luca Sturlese for the logging functions - https://github.com/9to5IT/PSLogging
